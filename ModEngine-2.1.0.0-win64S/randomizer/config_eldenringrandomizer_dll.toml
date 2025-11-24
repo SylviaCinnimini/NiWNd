@@ -1,0 +1,2 @@
+modengine = { debug = false, external_dlls = [ "C:\\Users\\michg\\Downloads\\Elden Ring Randomizer-428-v0-11-4-1763103112\\randomizer\\dll\\RandomizerCrashFix.dll" ] }
+extension = { mod_loader = { enabled = true, loose_params = false, mods = [ { enabled = true, name = "randomizer", path = "C:\\Users\\michg\\Downloads\\Elden Ring Randomizer-428-v0-11-4-1763103112\\randomizer" } ] } }

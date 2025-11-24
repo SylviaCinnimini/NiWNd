@@ -1,0 +1,18 @@
+# DO NOT MODIFY THIS FILE!
+# AUTO-GENERATED
+# CONTENTS WILL BE AUTOMATICALLY OVERWRITTEN
+
+# Produced by Elden Ring Randomizer v0.11.4
+# <hash>04018ca809ce2aa9cda00735c8fa6fff</hash>
+
+[modengine]
+debug = false
+external_dlls = [
+
+]
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    { enabled = true, name = "randomizer", path = "C:\\Users\\michg\\Downloads\\Elden Ring Randomizer-428-v0-11-4-1763103112\\randomizer" },
+]

@@ -1,0 +1,41 @@
+[2025-11-24 21:17:36.948] [modengine] [info] Attempting to load global config at C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2025-11-24 21:17:36.948] [modengine] [info] Attempting to load mod settings config at C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2025-11-24 21:17:36.948] [modengine] [info] Local config loaded
+[2025-11-24 21:17:36.948] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-11-24 21:17:36.948] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-11-24 21:17:36.948] [modengine] [info] Main thread ID: 21528
+[2025-11-24 21:17:36.950] [modengine] [info] Enabling extension base
+[2025-11-24 21:17:36.950] [modengine] [info] Enabled extension base
+[2025-11-24 21:17:36.950] [modengine] [info] Enabling extension mod_loader
+[2025-11-24 21:17:36.950] [modengine] [info] Installing mod location mod
+[2025-11-24 21:17:36.950] [modengine] [info] Resolved mod path to C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\mod
+[2025-11-24 21:17:36.950] [modengine] [info] Enabled extension mod_loader
+[2025-11-24 21:17:36.992] [modengine] [info] Applied 3 hooks
+[2025-11-24 21:17:36.994] [modengine] [info] Starting worker thread
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.252] [modengine] [info] Destroying
+[2025-11-24 21:19:01.253] [modengine] [info] Destroying
+[2025-11-24 21:19:01.253] [modengine] [info] Destroying
+[2025-11-24 21:19:01.253] [modengine] [info] Destroying
+[2025-11-24 21:23:09.486] [modengine] [info] Attempting to load global config at C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2025-11-24 21:23:09.486] [modengine] [info] Attempting to load mod settings config at C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2025-11-24 21:23:09.493] [modengine] [info] Local config loaded
+[2025-11-24 21:23:09.493] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-11-24 21:23:09.493] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-11-24 21:23:09.493] [modengine] [info] Main thread ID: 32204
+[2025-11-24 21:23:09.496] [modengine] [info] Loaded external DLL C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\SeamlessCoop/ersc.dll
+[2025-11-24 21:23:11.589] [modengine] [info] Enabling extension base
+[2025-11-24 21:23:11.589] [modengine] [info] Enabled extension base
+[2025-11-24 21:23:11.589] [modengine] [info] Enabling extension mod_loader
+[2025-11-24 21:23:11.589] [modengine] [info] Installing mod location mod
+[2025-11-24 21:23:11.589] [modengine] [info] Resolved mod path to C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\mod
+[2025-11-24 21:23:11.589] [modengine] [info] Installing mod location randomizer
+[2025-11-24 21:23:11.589] [modengine] [info] Resolved mod path to C:\Users\michg\Downloads\ModEngine-2.1.0.0-win64\randomizer
+[2025-11-24 21:23:11.589] [modengine] [info] Enabled extension mod_loader
+[2025-11-24 21:23:11.615] [modengine] [info] Applied 3 hooks
+[2025-11-24 21:23:11.618] [modengine] [info] Starting worker thread
